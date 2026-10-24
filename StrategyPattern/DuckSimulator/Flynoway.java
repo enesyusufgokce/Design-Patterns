@@ -1,4 +1,4 @@
-package StrategyPattern;
+package StrategyPattern.DuckSimulator;
 
 public class Flynoway implements Flybehavior{
     public void fly(){
